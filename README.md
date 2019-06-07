@@ -1,3 +1,5 @@
+https://github.com/solairerove/angular-r2
+
 # Angular Test Task
 The main goal of the task is to show your skills in the best way possible.
 Think of you starting to work on a new project that has many issues and bad code. Your task is make it to work and make the code perfect!
